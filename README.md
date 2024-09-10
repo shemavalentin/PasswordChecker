@@ -7,6 +7,10 @@ Now, how this tool is built?
 
 It is built on top of other massive database that stores usernames and passwords that have ever been hacked using REST API. We determine if username and password have leaked by dictionary attacks and when we find this attempt we initialize a brute force attack on these passwords by looping over them.
 
-I built this app as I merely said because, I wanted to check passwords for myself without using any other web tool as they are out there, and minding that when we send a password through those apps they are stored somewhere in the word and we don’t have to trust this as when you submit for check there could be someone on the middle and intercept it. The best security is to trust no one.
+I built this app as I merely said because, I wanted to check passwords for myself without using any other web tool as they are out there, and minding that when we send a password through those apps they are stored somewhere in the world and we don’t have to trust this as when you submit for check,there could be someone on the middle and intercept it. The best security is to trust no one.
 So, this app is free and uses the best technique used by legitimate and expensive password managers like keeper, 1 password, Blur, sticky password that keep your password secure.
+
+Feel free to use this app for your own security and notice that it runs in command prompt no user interface built yet. 
+
+Enjoy!!!
 
